@@ -2,7 +2,7 @@
 
 Cost-effective GCP infrastructure with modular Terraform design and SSO authentication testing.
 
-## Directory Structure
+## Directory Structure : 
 
 ```
 gcp-sso/
